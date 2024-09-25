@@ -1,2 +1,3 @@
 # unfollowbluesky
-Unfollow BlueSky
+
+USE POR SUA CONTA E RISCO
