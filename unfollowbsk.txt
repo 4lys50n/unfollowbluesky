@@ -8,7 +8,7 @@ https://bsky.app/profile/username.bsky.social/followers
 
 3. Pressione Ctrl+Shift+I para abrir o console do navegador e digite Permitir Colar.
 
-4. Cole o codigo abaixo em JavaScript que percorre os botões de 'deixar de seguir' e clique em todos eles automaticamente.
+4. Cole o codigo abaixo e veja a magia acotnecer.
 
 "
 const buttons = document.querySelectorAll('button');
